@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "esp_event_base.h": "c",
+        "mw_event.h": "c",
+        "esp_err.h": "c",
+        "event_source.h": "c",
+        "esp_event.h": "c",
+        "stdint.h": "c",
+        "esp_timer.h": "c",
+        "stdio.h": "c",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "mw_arduino_gatt.h": "c",
+        "bledevice.h": "c",
+        "map": "cpp",
+        "bleutils.h": "c",
+        "stdlib.h": "c"
+    }
+}
